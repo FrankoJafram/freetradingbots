@@ -116,6 +116,7 @@
                                             <field name="VAR" id="ZfmVgQrXw0?6:Y$FM1KV" variabletype="">STEP""2""</field>
                                             <value name="VALUE">
                                               <block type="math_number" id="G?O)hRNW7CG0WC0kj*u9">
+                                                <block type gridOptions.singleClickEdit=true>
                                                 <field name="NUM">2</field>
                                               </block>
                                             </value>
